@@ -1,0 +1,58 @@
+{
+  "lunboPic":["../static/imgs/pic01.jpg","../static/imgs/pic02.jpg","../static/imgs/pic03.jpg"],
+  "sale":[
+    {
+      "sid":"001",
+      "simg":"../static/imgs/sale02.jpg",
+      "stitle":"卡西欧"
+    },
+    {
+      "sid":"002",
+      "simg":"../static/imgs/sale03.jpg",
+      "stitle":"浪琴"
+    },
+    {
+      "sid":"003",
+      "simg":"../static/imgs/sale04.jpg",
+      "stitle":"卡西欧"
+    },
+    {
+      "sid":"004",
+      "simg":"../static/imgs/sale05.jpg",
+      "stitle":"浪琴"
+    }
+  ],
+
+  "recommendPro":[
+    {
+      "cid":"001",
+      "cimg":"../static/imgs/recommend01.jpg",
+      "ctitle":"天梭",
+      "cdetail" :"天梭自制机械男表",
+      "cpri":"3880"
+    },
+
+    {
+      "cid":"002",
+      "cimg":"../static/imgs/recommend02.jpg",
+      "ctitle":"卡西欧",
+      "cdetail":"天梭自制机械男表",
+      "cpri":"2990"
+    },
+    {
+      "cid":"003",
+      "cimg":"../static/imgs/recommend03.jpg",
+      "ctitle":"依波",
+      "cdetail":"依波自动机械男表",
+      "cpri":"1120"
+    },
+    {
+      "cid":"004",
+      "cimg":"../static/imgs/recommend04.jpg",
+      "ctitle":"天王",
+      "cdetail":"天王自动机械男表",
+      "cpri":"5600"
+    }
+  ]
+
+}

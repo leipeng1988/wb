@@ -1,0 +1,25 @@
+{
+  "i":"../static/imgs/about01.jpg",
+  "list":[
+    {
+      "imgs":"../static/imgs/sale04.jpg",
+      "pri":"5600",
+      "de":"爱宝石机械表"
+    },
+    {
+      "imgs":"../static/imgs/sale05.jpg",
+      "pri":"7300",
+      "de":"天梭绅士手表"
+    },
+    {
+      "imgs":"../static/imgs/sale05.jpg",
+      "pri":"4200",
+      "de":"爱宝石机械表"
+    },
+    {
+      "imgs":"../static/imgs/sale04.jpg",
+      "pri":"7800",
+      "de":"依波男士手表"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "user":{},
+  "totalPrice":0,
+  "checked":true,
+  "shops":[
+    {
+      "shopName":"瑞士爱宝石官方旗舰店",
+      "checked":true,
+      "products":[
+        {
+          "pic":"../static/imgs/cars01.jpg",
+          "title":"瑞士艺术制表大师爱宝石，情感系列罗马假期",
+          "nprice":"5700",
+          "oprice":"9800",
+          "checked":true,
+          "gal":"",
+          "attrs":{
+            "numbers":1,
+            "color":"蓝色",
+            "strap":"羊皮",
+            "straptyps":"仿真皮"
+          }
+        },
+
+        {
+          "pic":"../static/imgs/bg.jpg",
+          "title":"瑞士艺术制表大师爱宝石，情感系列罗马假期",
+          "nprice":"5700",
+          "oprice":"9800",
+          "checked":true,
+          "gal":"",
+          "attrs":{
+            "numbers":3,
+            "color":"红色",
+            "strap":"牛皮",
+            "straptyps":"真皮"
+          }
+        }
+
+      ]
+    },
+
+    {
+      "shopName":"天梭官方旗舰店",
+      "checked":true,
+      "products":[
+        {
+          "pic":"../static/imgs/cars02.jpg",
+          "title":"瑞士艺术制表大师，情感系列",
+          "nprice":"7000",
+          "oprice":"11800",
+          "checked":true,
+          "gal":"",
+          "attrs":{
+            "numbers":2,
+            "color":"黑色",
+            "strap":"牛皮",
+            "straptyps":"真皮"
+          }
+        },
+
+        {
+          "pic":"../static/imgs/bg.jpg",
+          "title":"瑞士艺术制表大师，情感系列",
+          "nprice":"7000",
+          "oprice":"11800",
+          "checked":true,
+          "gal":"",
+          "attrs":{
+            "numbers":2,
+            "color":"紫色",
+            "strap":"牛皮",
+            "straptyps":"真皮"
+          }
+        }
+      ]
+    }
+  ]
+
+}
